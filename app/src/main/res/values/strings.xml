@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Kucing &amp; Anjing Pedia</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="go_back">Kembali</string>
+    <string name="kucing">Kucing</string>
+    <string name="anjing">Anjing</string>
+    <string name="kucing_list_title">Daftar Ras Kucing</string>
+    <string name="anjing_list_title">Daftar Ras Anjing</string>
+    // Data kucing
+    <string name="angora_nama">Angora</string>
+    <string name="angora_asal">Turki</string>
+    <string name="angora_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut</string>
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">Inggris</string>
+    <string name="bengal_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris</string>
+    <string name="birmani_nama">Birmani</string>
+    <string name="birmani_asal">Birma/Myanmar</string>
+    <string name="birmani_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    <string name="persia_nama">Persia</string>
+    <string name="persia_asal">Iran</string>
+    <string name="persia_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia</string>
+    <string name="siam_nama">Siam</string>
+    <string name="siam_asal">Thailand</string>
+    <string name="siam_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan</string>
+    <string name="siberia_nama">Siberia</string>
+    <string name="siberia_asal">Rusia</string>
+    <string name="siberia_deskripsi">Kucing domestik Rusia dengan bulu lebat dan badan besar tapi sangat lincah dan terkenal dengan kemampuan melompatnya</string>
+    // Data anjing
+    <string name="bulldog_nama">Bulldog</string>
+    <string name="bulldog_asal">Inggris</string>
+    <string name="bulldog_deskripsi">Anjing populer yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Alaska,Siberia,Finlandia (daerah bersalju)</string>
+    <string name="husky_deskripsi">Anjing jenis khusus yang awalnya digunakan untuk menarik kereta salju</string>
+    <string name="kintamani_nama">Kintamani</string>
+    <string name="kintamani_asal">Indonesia</string>
+    <string name="kintamani_deskripsi">Ras anjing asli pulau Bali </string>
+    <string name="samoyed_nama">Samoyed</string>
+    <string name="samoyed_asal">Rusia</string>
+    <string name="samoyed_deskripsi">Anjing yang berasal dari Siberia yang awalnya biasa digunakan untuk menjaga ternak oleh suku Samoyed</string>
+    <string name="shepherd_nama">Shepherd</string>
+    <string name="shepherd_asal">Jerman</string>
+    <string name="shepherd_deskripsi">Anjing pintar dan kuat, sekarang banyak digunakan sebagai anjing penjaga, pengawal, dan anjing polisi (K9)</string>
+    <string name="shiba_nama">Shiba</string>
+    <string name="shiba_asal">Jepang</string>
+    <string name="shiba_deskripsi">Anjing dari daerah Shiba ini gesit dan lincah sehingga awalnya banyak digunakan untuk berburu</string>
+
+</resources>

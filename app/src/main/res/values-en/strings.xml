@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cat &amp; Dog Pedia</string>
+    // Layout
+    <string name="pilih_gambar">Tap on picture to open gallery</string>
+    <string name="daftar_ras_judul">List of Breeds</string>
+    <string name="go_back">Back</string>
+    <string name="kucing">Cat</string>
+    <string name="anjing">Dog</string>
+    <string name="kucing_list_title">List of Cat Breeds</string>
+    <string name="anjing_list_title">List of Dog Breeds</string>
+    // Data kucing
+    <string name="angora_nama">Angora</string>
+    <string name="angora_asal">Turkey</string>
+    <string name="angora_deskripsi">Originated in Ankara, Turkey. It has a very distinct characteristics of long and smooth fur</string>
+    <string name="bengal_nama">Bengali</string>
+    <string name="bengal_asal">England</string>
+    <string name="bengal_deskripsi">This breed is a result of cross breeding between Asian Leopard and domestic cat in England</string>
+    <string name="birmani_nama">Birman</string>
+    <string name="birmani_asal">Burma/Myanmar</string>
+    <string name="birmani_deskripsi">The Birman is a long-haired, colour-pointed cat distinguished by a silky coat, deep blue eyes, and contrasting white "gloves" on each paw.</string>
+    <string name="persia_nama">Persian</string>
+    <string name="persia_asal">Iran</string>
+    <string name="persia_deskripsi">The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle. It is also known as the "Persian Longhair" in English-speaking countries.</string>
+    <string name="siam_nama">Siamese</string>
+    <string name="siam_asal">Thailand</string>
+    <string name="siam_deskripsi">The Siamese cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to Thailand, the original Siamese became one of the most popular breeds in Europe and North America in the 19th century.</string>
+    <string name="siberia_nama">Siberian</string>
+    <string name="siberia_asal">Russia</string>
+    <string name="siberia_deskripsi">The Siberian is a centuries-old landrace of domestic cat in Russia and recently developed as a formal breed with standards promulgated the world over since the late 1980s. Siberians vary from medium to medium-large in size.</string>
+    // Data anjing
+    <string name="bulldog_nama">Bulldog</string>
+    <string name="bulldog_asal">England</string>
+    <string name="bulldog_deskripsi">The Bulldog, also known as the English Bulldog or British Bulldog, is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose. The Kennel Club, the American Kennel Club, and the United Kennel Club oversee breeding records.</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Alaska,Siberia,Finland (snowy region)</string>
+    <string name="husky_deskripsi">A husky is a sled dog used in the polar regions. One can differentiate huskies from other dog types by their fast pulling-style. Modern racing huskies (also known as Alaskan huskies) represent an ever-changing crossbreed of the fastest dogs (the Alaskan Malamute, by contrast, pulled heavier loads at a slower speed).</string>
+    <string name="kintamani_nama">Kintamani</string>
+    <string name="kintamani_asal">Indonesia</string>
+    <string name="kintamani_deskripsi">The Kintamani or the Kintamani-Bali Dog is a dog native to the Indonesian island of Bali and originated from the Kintamani region. It is a popular pet for the Balinese and locally Bali\'s only official breed.</string>
+    <string name="samoyed_nama">Samoyed</string>
+    <string name="samoyed_asal">Russia</string>
+    <string name="samoyed_deskripsi">The Samoyed is a breed of medium-sized herding dogs with thick, white, double-layer coats. They are a spitz-type dog which takes its name from the Samoyedic peoples of Siberia.</string>
+    <string name="shepherd_nama">Shepherd</string>
+    <string name="shepherd_asal">Germany</string>
+    <string name="shepherd_deskripsi">The German Shepherd is a breed of medium to large-sized working dog that originated in Germany.</string>
+    <string name="shiba_nama">Shiba</string>
+    <string name="shiba_asal">Japan</string>
+    <string name="shiba_deskripsi">The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original and distinct spitz breeds of dog native to Japan. A small, alert, and agile dog that copes very well with mountainous terrain and hiking trails, the Shiba Inu was originally bred for hunting.</string>
+</resources>

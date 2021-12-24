@@ -1,10 +1,9 @@
-## Kucing & Anjing Pedia | v 2
+## Kucing & Anjing Pedia with i18n
 
-Contoh aplikasi android sederhana dengan 3 activity yang mendemonstrasikan:
-* Cara mengirim informasi berupa object dari satu activity ke activity lainnya menggunakan serializable melalui extra pada Intent,
-* Cara menggunakan listview
+Contoh aplikasi android sederhana yang mendemonstrasikan:
+* Cara membuat aplikasi dengan dukungan multibahasa
 
-Merupakan kelanjutan dari contoh sebelumnya di [Kucing & Anjing Pedia](https://github.com/ewinsutriandi/kucing-anjing-pedia-intentextra)
+Merupakan kelanjutan dari contoh sebelumnya di [Kucing & Anjing Pedia dengan Listview](https://github.com/ewinsutriandi/kucing-anjing-pedia-listview)
 
 ![Kucing & Anjing Pedia](catdogpedia.gif)
 

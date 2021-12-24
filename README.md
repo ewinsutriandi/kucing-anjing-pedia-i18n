@@ -5,6 +5,7 @@ Contoh aplikasi android sederhana yang mendemonstrasikan:
 
 Merupakan kelanjutan dari contoh sebelumnya di [Kucing & Anjing Pedia dengan Listview](https://github.com/ewinsutriandi/kucing-anjing-pedia-listview)
 
-![Kucing & Anjing Pedia](catdogpedia.gif)
+![Indonesia](indonesia.gif)
+![English](english.gif)
 
 
